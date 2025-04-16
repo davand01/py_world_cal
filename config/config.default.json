@@ -1,0 +1,37 @@
+{
+    "Team_Name": "Team Awesome",
+    "Map_Height": "500",
+    "Status_Circle_Radius": 100000,
+    "Team_Members": [
+      {
+        "Name": "Alice A",
+        "Timezone": "GB",
+        "Coordinates": "53.3, -6.3",
+        "Working_hours": "08-17"
+      },
+      {
+        "Name": "Bob B",
+        "Timezone": "CET",
+        "Coordinates": "55.7, 12.6",
+        "Working_hours": "08-17"
+      },
+      {
+        "Name": "Charlie C",
+        "Timezone": "CET",
+        "Coordinates": "52.4, 4.9",
+        "Working_hours": "08-17"
+      },
+      {
+        "Name": "David D",
+        "Timezone": "WET",
+        "Coordinates": "38.7, -9.1",
+        "Working_hours": "08-17"
+      },
+      {
+        "Name": "Eve E",
+        "Timezone": "GB",
+        "Coordinates": "51.5, -0.1",
+        "Working_hours": "08-17"
+      }
+    ]
+  }
