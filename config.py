@@ -1,7 +1,5 @@
 import json
 
-
-
 def load_base_radius(config_path):
     try:
         with open(config_path, 'r') as file:

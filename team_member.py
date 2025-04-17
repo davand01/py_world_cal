@@ -1,5 +1,4 @@
 import json
-import os
 
 class TeamMember:
     def __init__(self, name, timezone, coordinates, working_hours):
